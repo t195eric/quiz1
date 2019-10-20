@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root 'quiz#index'
+  root 'quizs#index'
   end
